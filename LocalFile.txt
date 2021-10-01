@@ -1,1 +1,3 @@
-this file was edited
+this file was edited from local directory
+
+this file was edited from remote directory
